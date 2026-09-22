@@ -7,9 +7,9 @@ A live currency converter built with HTML, CSS, and JavaScript, using real-time 
 
 ## Links
 
-Solution link: [https://github.com/DevAdeh/Multi-Step-Form-.git]
+Solution link: [https://github.com/DevAdeh/Currency-Converter..git]
 
-Live link: [https://multi-step-form-alpha-steel.vercel.app/]
+Live link: [https://currency-converter-umber-mu-39.vercel.app/]
 
 ## Features
 - Converts between a full list of world currencies
