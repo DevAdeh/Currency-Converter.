@@ -3,7 +3,7 @@
 A live currency converter built with HTML, CSS, and JavaScript, using real-time exchange rates from the Frankfurter API.
 
   ## Preview 
-![article preview](./preview.png)
+![article preview](./assets/preview.png)
 
 ## Links
 
